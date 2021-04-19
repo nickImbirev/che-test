@@ -18,4 +18,4 @@ spec:
        - name: ZOWE_CLI_HOME
          value: /projects/.zowe
   extensions:
-    - https://github.com/nickImbirev/che-test/releases/download/1.0.0/explorer-for-endevor.vsix
+    - https://github.com/nickImbirev/che-test/releases/download/1.0.1/explorer-for-endevor.vsix
